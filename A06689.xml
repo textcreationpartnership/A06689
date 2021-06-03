@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ease for a diseased man Published for the instruction of those which are visited with sicknesse of body; especially those which being infected with the contagious pestilence are debarred from the publike ministery of the word, and the comfortable societie of their brethren. by M.M.</title>
+            <author>M. M., fl. 1625.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A06689</idno><idno type="EEBO-CITATION">99839735</idno>
+  <idno type="VID">4183</idno>
+  <idno type="EEBO-PROQUEST">2240878361</idno>
+  <idno type="STC">STC 17144</idno>
+  <idno type="STC">ESTC S103994</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839735e"/>
+            <note>(EEBO-TCP ; phase 2, no. A06689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 850:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ease for a diseased man Published for the instruction of those which are visited with sicknesse of body; especially those which being infected with the contagious pestilence are debarred from the publike ministery of the word, and the comfortable societie of their brethren. by M.M.</title>
+                  <author>M. M., fl. 1625.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Iones, and are to be sold by Iohn Wright [Senior], dwelling without New-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bookseller is Iohn Wright, Senior.--STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Consolation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4183:1"/>
+            <pb facs="tcp:4183:1"/>
+            <p>AN EASE FOR a diseased man.</p>
+            <p>PVBLISHED FOR THE instruction of those which are visited with sicknesse of body; especi<g ref="char:EOLhyphen"/>ally those which being infected with the contagious pestilence are debar<g ref="char:EOLhyphen"/>red from the publike ministery of the word, and the comfortable societie of their brethren. by <hi>M. M.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Micah. 7.</hi>
+               </bibl>
+               <p>
+                  <bibl>
+                     <hi>v. 7.</hi>
+                  </bibl> I will looke vnto the Lord: I will waite for God my Sauiour: my God will heare me.</p>
+               <p>
+                  <bibl>
+                     <hi>v. 8.</hi>
+                  </bibl> Reioyce not against me, O my enemie: though I fall, I shall arise, &amp;c.</p>
+               <p>
+                  <bibl>
+                     <hi>v. 9.</hi>
+                  </bibl> I will beare the wrath of the Lord, be<g ref="char:EOLhyphen"/>cause I haue sinned against him, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Iones,</hi> and are to be sold by <hi>Iohn Wright,</hi> dwelling without New-gate. 1625.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:4183:2"/>
+            <pb facs="tcp:4183:2"/>
+            <head>AN EASE FOR A DISEASED man.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat a Man may thanke<g ref="char:EOLhyphen"/>fully receiue, patiently beare, and ioyfully over-passe the crosse of sicknes: it is profitable for him to meditate principally (among others) of these poynts following.</p>
+            <div n="1" type="part">
+               <head>
+                  <hi>1</hi> Who is the author and sender of sicknesse.</head>
+               <p>The Scriptures do teach vs, that all sick<g ref="char:EOLhyphen"/>nesse of body proceedeth from God, as ap<g ref="char:EOLhyphen"/>peareth by these places: In <hi>Deut.</hi> 28. <hi>v.</hi> 21, 22. <hi>The Lord shall make pestilence to cleaue vnto thee, vntil he hath consumed thee from the land whether thou goest to possesse it. The Lord shall smitt thee with a consumption, and with a Feuer, and with a burning Ague, and with feruent heate.</hi> And in 1 Sam. 5.9. <hi>The hand of the Lord was against the Citie with a very great destruction: and he smot the men of the <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tie both small and great, and they had</hi> Eme<g ref="char:EOLhyphen"/>rods <hi>in their secret parts.</hi>
+               </p>
+               <p>
+                  <hi>In that God is the author of sicknes, we may learne these Lessons.</hi>
+               </p>
+               <p n="1">
+                  <pb n="2" facs="tcp:4183:3"/>1 We must not ascribe our sicknesse to chaunce or fortune: for it is of the will of God.</p>
+               <p n="2">2 Looke not too much to the meanes of thy sicknes: as to cold, surfeting, infec<g ref="char:EOLhyphen"/>ted houses, &amp;c. But to lift vp thine eyes to Heaven, remembring that the Lord hath sent it.</p>
+               <p n="3">
+                  <note place="margin">Rom 9.19.</note>3 Storme not against sicknes with mur<g ref="char:EOLhyphen"/>muring or impatience; for thou canst not resist it: the Lord hath sent it: and who hath resisted his will.</p>
+               <p n="4">4 In Sicknesse seeke to the Lord for re<g ref="char:EOLhyphen"/>medie; for he sent it, and he must take it a<g ref="char:EOLhyphen"/>way: So it is written. Hos. 6.1. <hi>Come and let vs returne to the Lord, for he hath spoyled, and he will heale vs:</hi>
+                  <note place="margin">Hose. 6.1.</note>
+                  <hi>he hath wounded vs, and he will bind vs vp.</hi>
+               </p>
+               <p>We must be carefull therefore that wee seeke not for health by vnlawfull meanes, 1.<note place="margin">2 King. 1.3.</note> as by Witchcraft, Coniuring, Charming &amp;c. For <hi>Ahaziah</hi> is rebuked, for that in hi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sicknes he sent to aske counsayle concer<g ref="char:EOLhyphen"/>ning his recovery of <hi>Baal-zebub</hi> the God of <hi>Ekron.</hi>
+               </p>
+               <p n="2">2 We must not depend too much vpon the lawfull meanes:<note place="margin">2. Chro. 16 12</note> as vpon the Physition &amp;c. For this was noted for a sinne in King <hi>Asa,</hi> that being diseased in his feete, he sought not the Lord in his disease, but to
+<pb n="3" facs="tcp:4183:3"/> the Physitions: that is, the Physitions only.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2</hi> What prouoketh God to smite man with Sicknesse.</head>
+               <p>The Scripture doe teach vs, that the sin of man,<note place="margin">Leuit. 26 14.15.16.</note> is commonly the cause why hee is smitten with sicknes. as in Levit. 26. v. 14.15.16. <hi>If yee will not obey me, nor doe all the commaundements, &amp;c. Then will I also do this vnto you: I will appoynt ouer you fearefulnesse, (or a hasty plague) a consumption, and the bur<g ref="char:EOLhyphen"/>ning Ague, to consume the eyes, and to make the heart heauy.</hi>
+                  <note place="margin">2. Sam. 24.15.</note>
+               </p>
+               <p>
+                  <hi>Dauids</hi> mistrust in numbring the peo<g ref="char:EOLhyphen"/>ple, was scourged with a plague of 70000. men, within three dayes.</p>
+               <p>We haue among the rest these particu<g ref="char:EOLhyphen"/>lar sinnes set downe, as the causes of this devouring plague of pestilence:</p>
+               <p>The first sinne is,<note place="margin">Exod 5.3.</note>
+                  <hi>The neglect of Gods ser<g ref="char:EOLhyphen"/>uice: Moses</hi> &amp; <hi>Aaron</hi> desires <hi>Pharaohs</hi> leaue to goe and sacrifice to the Lord in the de<g ref="char:EOLhyphen"/>sert, least for want thereof he bring vpon them the Pestilence.</p>
+               <p>Secondly, <hi>The abuse of the Sacraments.</hi>
+                  <note place="margin">1. Cor 11.30.</note> For this cause (saith <hi>Paul</hi>) that is, <hi>for abu<g ref="char:EOLhyphen"/>sing the Lords Supper,</hi> (as is before in that 1. Cor. 11. Chapter, 30. ver.) <hi>many are weake and sicke among you, and many sleepe.</hi>
+               </p>
+               <p>Thirdly, <hi>Disobedience to Gouernours.</hi>
+                  <note place="margin">Nomb. 16 49.</note> As Numbers 16.49. verse. The <hi>Israelites</hi> for
+<pb n="4" facs="tcp:4183:4"/> rebelling against <hi>Moses</hi> and <hi>Aaron,</hi> dyed of the plague fourteene thousand and seven hundren men.</p>
+               <p>Fourthly, Their <hi>Murmuring against God.</hi> So <hi>Moses</hi> saith, Numb. 13.3. <hi>The Israelites murmured against God,</hi> because he led them no sooner into the land of <hi>Canaan,</hi> and be<g ref="char:EOLhyphen"/>cause the land was no better, therefore the Lord threatned to smit them with the Pe<g ref="char:EOLhyphen"/>stilence, and to destroy them.</p>
+               <p>And no doubt these sinnes and offences principally are among others the most sen<g ref="char:EOLhyphen"/>sible and apparant causes of the plague a<g ref="char:EOLhyphen"/>mong vs. As 1. <hi>The contempt of the hearing of the word.</hi> 2 <hi>The neglect of the communi<g ref="char:EOLhyphen"/>cation of the Sacrament.</hi> 3 <hi>Our vnrulinesse, and disobedience to Magistrats.</hi> 4 <hi>Our mur<g ref="char:EOLhyphen"/>muring against God in the very time of the iudgement.</hi>
+               </p>
+               <p>
+                  <hi>In that sinne is commonly the cause of Sicknesse, learne these Lessons.</hi>
+               </p>
+               <p>First, looke not too much on the meāes whereby, or the manner how thou art af<g ref="char:EOLhyphen"/>flicted: but looke especially to thy sinne, as the principall cause of it. We say com<g ref="char:EOLhyphen"/>monly, I tooke my sickenesse by such a iourney, by such a surfeit, in such an infec<g ref="char:EOLhyphen"/>ted house, &amp;c. True, those were the out<g ref="char:EOLhyphen"/>ward meanes: But it was thy sinne within
+<pb n="5" facs="tcp:4183:4"/> thee which provoked God to offer those meanes to thee, and to make them stronge and effectuall to afflict thee.</p>
+               <p>Secondly, When thou art visited with sicknesse, enter into examination of thine owne heart, what sinnes doe principally raigne in thee, &amp; do provoke God to smite thee in that manner.</p>
+               <p>Thirdly, by fasting &amp; prayer and repen<g ref="char:EOLhyphen"/>tance, turne to the Lord thy God, that hee may in mercy forgiue thy sinne, and con<g ref="char:EOLhyphen"/>sequently take away thy affliction.</p>
+               <p>Fourthly, Learne thereby to loath and avoyde sinne, which so incenseth God, and afflicteth thee.</p>
+               <p>But note by the way and consider, first, that sinne is not alwayes the cause of the crosse, as may appeare by the answere of Christ to his Disciples, cōcerning the man that was borne blinde.</p>
+               <p>Secondly, those which are afflicted, are not alwayes greater sinners then others,<note place="margin">Ioh. 9.2.3.</note> as appeareth by the answer of Christ to those which shewed him of the <hi>Galileans,</hi>
+                  <note place="margin">Luke 13.1.2.</note> whose blood <hi>Pilate</hi> had mingled with their owne Sacrifices.</p>
+               <p>Therefore when thou seest thy neigh<g ref="char:EOLhyphen"/>bour afflicted, neither iudge him rashly to be worse than thy selfe: nor excuse thy selfe presumptuously to be better, or more
+<pb n="6" facs="tcp:4183:5"/> righteous than he.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>3</hi> To what end God smiteth man with sicknesse.</head>
+               <p>God which is infinitely good, seeketh nothing in afflicting his childrē, but their good: as namely, hee doth visite vs with sicknesse for these causes.</p>
+               <p>First, to drawe vs to repentance and a<g ref="char:EOLhyphen"/>mendment of life:<note place="margin">1. Cor. 11.32.</note> least our sinne be our destruction; as the Apostle <hi>Paul</hi> saith: 1. Cor. 11.32. <hi>When we are iudged, we are chastened of the Lord, because we should not be condemned with the world.</hi>
+               </p>
+               <p>Secondly, The Lord smiteth man, to humble the pride of our hearts,<note place="margin">Psalm. 107 12.</note> by the fee<g ref="char:EOLhyphen"/>ling of our owne frayltie &amp; misery: <hi>when he humbled their hearts</hi> (saith <hi>Dauid</hi>) Psal. 107.12. <hi>with heauinesse, they fell downe, and there was no helper.</hi>
+               </p>
+               <p>Thirdly, The Lord doth smite vs, to trie and examine vs,<note place="margin">Psal. 2.18.</note> whether we will stand as fast to God in the time of adversitie, as we seemed and promised to stand to him in the time of prosperitie.</p>
+               <p>Christ when he suffered, as Psal. 22.17, 18.<note place="margin">Psal. 30.6 7.</note> vers. is said to be tempted, that is, tryed and prooved in affliction, as gold is tryed in the furnace.</p>
+               <p>Fourthly, God smites vs, because wee
+<pb n="7" facs="tcp:4183:5"/> should shake off from vs all carnall securi<g ref="char:EOLhyphen"/>tie: for prosperitie maketh vs carelesse and negligent in the worship and service of God, yea, even to forget God. Therefore the Prophet <hi>David,</hi> in psalme 30.6.7. <hi>In my prosperitie I said, I shall neuer be moued, for thou Lord of thy goodnes hadst made my moun<g ref="char:EOLhyphen"/>taine to stand strong, but thou diddest hid thy face, and I was troubled.</hi>
+               </p>
+               <p>Therefore this must teach vs, to apply our sicknesse vnto the right end. Not the more the hand of God is vpō vs, the more to harden our hearts (as <hi>Pharaoh</hi> did in <hi>Ae<g ref="char:EOLhyphen"/>gypt.</hi>) But our visitation must make vs bet<g ref="char:EOLhyphen"/>ter: namely, it must make vs more peni<g ref="char:EOLhyphen"/>tent for our sinnes, more humble in heart, more stedfast in faith, and more watchfull over our owne soules, least that if we pro<g ref="char:EOLhyphen"/>fit not by so effectuall meanes, our sicknes shall be vnto vs but the beginings of far greater iudgments. As the Lord threat<g ref="char:EOLhyphen"/>neth in <hi>Leuit.</hi> 26. That if this iudgment of pestilence will not breake in peeces thy hard and stony heart, the Lord I say hath pronounced in the said 26. of <hi>Leuit.</hi> saying verse 18. <hi>And if ye will not for these things o<g ref="char:EOLhyphen"/>bey me, then will I punish you seuen times more, according to your sinnes. &amp;c.</hi> and so forwards throughout the chapter, and thou shalt there finde, that God will not onely bring
+<pb n="8" facs="tcp:4183:6"/> vpon them all the plagues of <hi>Aegyt,</hi> that if those <hi>Aegyptian</hi> plagues would not re<g ref="char:EOLhyphen"/>forme them, but that they would still be a people rebellious, then the Lord will set his face against them, <hi>and I will punish you seuen times more according to your sinnes. &amp;c.</hi> And thus the Lord foure severall times in that chapter, repeteth the plagues that hee will send, therefore let vs make a right vse of this plague of pestilence, that the Lords hand may be stayed, and our land healed.</p>
+            </div>
+            <div n="4" type="part">
+               <head>Fourthly, How a man may gather com<g ref="char:EOLhyphen"/>fort to himselfe in Sicknesse.</head>
+               <p>First, let the sickeman consider that his visitation is sent of God, who is rich in mercy, and abundant in goodnesse and truth, and loveth him in Christ.</p>
+               <p>
+                  <note place="margin">Eph. 2.4. Exod. 34 6 Heb. 12.7. Cor. 10.13.</note>From thence he may gather, first that God correcteth him of loue as a Father, and punisheth him not as a Iudge.</p>
+               <p>Secondly, God will lay no more vpon him, then he will make him able to beare.</p>
+               <p>Thirdly, God will giue an issue to the temptation in due time as shall be best for him.</p>
+               <p>Let the sicke man consider, how little his paine is in respect of that which others indured. Doth thy head ake, or thy heart pant, or thy foote or belly greiue thee? Is
+<pb n="9" facs="tcp:4183:6"/> one member distressed, yet is not thy case like <hi>Iobs:</hi> all his members were afflicted at once he was smitten with boyles, from the soale of his foote vnto his crowne.<note place="margin">Iob. 2.7</note> Is thy whole body afflicted?<note place="margin">Psal. 55.4. Math. 13.50.</note> Yet is not thy case like <hi>Dauids,</hi> when being distressed in soule he cryed out, saying: <hi>My heart trembleth within me, and the terrors of death are come vpon me.</hi>
+                  <note place="margin">Luk 16.24</note>
+                  <hi>Feare and trembling are come vpon me, and an horrible feare hath couered me.</hi> Is thy soule distressed? Yet is not thy afflicti<g ref="char:EOLhyphen"/>on like those which lye yelling in Hell, in fyre vnquenchable, weeping, and wayling and gnashing their teeth; and haue not so much as a dropp of cold water to coole their tongues.</p>
+               <p>Then thinke thus with thy selfe: Is one member greived? God could smite all. Am I heart sicke? God could inlarge my heart, and there with all my payne seven fold more. Am I distressed in soule?<note place="margin">Luke 12.5.</note> God could giue me over into desperation. Am I dist<g ref="char:EOLhyphen"/>ressed both in body and soule? God could throw both body and soule into hell fire. Thus mayst thou gather comfort in thy greatest payne, by considering how much lesse thy payne is, then God is able to in<g ref="char:EOLhyphen"/>flict.</p>
+               <p>Let the sicke man consider, how much lesse his paine is then he deserveth.<note place="margin">Psal. 14.3.</note>
+                  <hi>All are
+<pb n="10" facs="tcp:4183:7"/> gone out of the way:</hi> saith <hi>Dauid,</hi> Psalme 14.3,<note place="margin">Iam. 2.3. Rom. 6.23. Deut. 27.26.</note>
+                  <hi>And in many things we offend all.</hi> I am, 2, 3. Now the <hi>reward of sinne is death:</hi> (Rom. 6.2, 3.) that is, the curse of God, hell fire, vtter confusion both of body and soule. The damned in Hell would gladly suffer the pangs of death for ever, that they might be eased of their torments but for a while. Thus mayest thou gather comfort to thy selfe, considering how sparingly the Lord scourgeth thee, when as for thy desert he might vtterly confound thee.</p>
+               <p n="4">4 Also let the sicke man consider, that the best Saincts of God haue ben subiect to the like distresse, and haue beene visited with the like crosse of sicknesse.</p>
+               <p>
+                  <note place="margin">Gen. 48.1.</note>
+                  <hi>Iacob</hi> wrestled with God, and prevailed with men,<note place="margin">Iob 27.</note> yet subiect to sickenesse. <hi>Iob</hi> an vpright man and a iust, yet was he smitten with vlcers, from the head to the foote.</p>
+               <p>
+                  <note place="margin">2 King. 13 14</note>
+                  <hi>Elizeus</hi> an holy Prophet, the spirit of <hi>Elias</hi> was double vpon him, yet he sickned and dyed.<note place="margin">2 King 10.1.</note>
+                  <hi>Hezekiah,</hi> an holy King, there arose none like him, either before or after him, yet was he sicke to the death. <hi>Iesus</hi> loved <hi>Lazerus,</hi>
+                  <note place="margin">Ioh. 11.15</note> yet he sickned &amp; dyed of it.</p>
+               <p>Of this meditation, the sicke man may gather this comfort. Surely, notwithstan<g ref="char:EOLhyphen"/>ding my sicknes, my part shall be among the holy Patriarckes, Prophets, and Saincts
+<pb n="11" facs="tcp:4183:7"/> of God, beloved of Iesus Christ, for thus were they visited and afflicted. Yea, this ar<g ref="char:EOLhyphen"/>gueth, that I am of their number: for God scourgeth every sonne that he receiueth.<note place="margin">Hebr. 12.6</note>
+               </p>
+               <p>Fifthly, Let the sicke man consider, how great the ioyes of Heaven are, which are layd vp in store for him, if hee pati<g ref="char:EOLhyphen"/>ently abide the Lords visitation, <hi>euen such as the eye hath not seene,</hi>
+                  <note place="margin">1. Cor. 2.9. Rom. 8.18</note>
+                  <hi>neither hath the eare heard, neither is the heart able to conceiue:</hi> so will he say with <hi>Paul, I count that the af<g ref="char:EOLhyphen"/>flictions of this present time, are not worthy the glory which shall be shewed to vs.</hi> Thus will the hope of the ioy to come, asswage the payne of the present maladie.</p>
+               <p>Sixthly, Let the sicke man consider,<note place="margin">Luk 24.26</note> that such things Christ himselfe suffered, and so entred into his glory. And now being in his glory, he seeth, feeleth, and pittieth the distresse of his members. <hi>For</hi> (saith the Apostle) <hi>wee haue not an high Priest which cannot be touched with the feeling of our infir<g ref="char:EOLhyphen"/>mities,</hi>
+                  <note place="margin">Heb. 4.15.</note>
+                  <hi>but was in all things tempted in like sort,</hi> and therefore knoweth the better to pitie vs.</p>
+               <p>From this meditation, will a rise this comfort. Doth Christ which redeemed me, both see and feele my affliction: Sure<g ref="char:EOLhyphen"/>ly then will the same my Redeemer, com<g ref="char:EOLhyphen"/>fort me in measure sufficient, and release
+<pb n="12" facs="tcp:4183:8"/> me in time covenient.</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>5</hi> How a man should behaue himselfe in time of his sicknesse.</head>
+               <p>Concerning spirituall things, let the sicke man thus exercise himselfe.</p>
+               <p>First let him be occupied in prayer. In which prayer, let him craue of God these poynts following.</p>
+               <list>
+                  <item>1 That he may haue a sight of his sinnes.</item>
+                  <item>2 A godly sorrow for his sinnes.</item>
+                  <item>3 The forgivenes of his sinnes.</item>
+                  <item>4 Faith, to beleeue that his sinnes are forgiuen him.</item>
+                  <item>5 Patience and constancy in his trouble.</item>
+               </list>
+               <p>Sixthly, Deliverance in good time, which way it pleaseth God.</p>
+               <p>So are we commaunded to doe, and so haue the Saincts left vs an example: as the Apostle <hi>Iames</hi> 5.15. saith,<note place="margin">Iam. 5.15</note>
+                  <hi>Is any man afflic<g ref="char:EOLhyphen"/>ted? lat him pray. Is any meery? let him sing psalmes.</hi>
+                  <note place="margin">2. King. 20.2.</note> Also it was the practise of <hi>Ezechiah</hi> being sicke, <hi>turned his face to the wall, and prayed to the Lord.</hi>
+               </p>
+               <p>Secondly, Let him be occupied in read<g ref="char:EOLhyphen"/>ing of the word: for there he shall finde,</p>
+               <p n="1">1 Examples of Gods mercy shewed vp<g ref="char:EOLhyphen"/>on the afflicted. 2 Comfortable promi<g ref="char:EOLhyphen"/>ses of strength and deliverance made to the Saincts. 3. Instruction how to beare,
+<pb n="11" facs="tcp:4183:8"/> and what vse to make of Gods visitation.</p>
+               <p>All these (and more then these) shall he find in Gods word. Whereof <hi>Dauid</hi> said in psalme 19.10.<note place="margin">Psal. 19.10 Psal. 119.92.</note>
+                  <hi>Thy word is sweeter than ho<g ref="char:EOLhyphen"/>nie, and the hony combe.</hi> And psal. 119.92. <hi>Except thy Law had been my delight, I should haue perished in my affliction.</hi>
+               </p>
+               <p>Thirdly, Let him meditate of the other life which he is passing vnto, where he shal haue Saboath vpon Saboath: that is, rest for evermore. Where,<note place="margin">Esa 66.23.</note>
+                  <hi>the Lord shall wipe a-away all teares from his eyes: and there shall be no more death, neither sorrow, neither crying, neither shall there be any more payne,</hi>
+                  <note place="margin">Revel. 21.4.</note>
+                  <hi>for the first things</hi> (that is the worst things) <hi>are there passed ouer.</hi>
+               </p>
+               <p>Concerning temporall things, let the sicke man obserue these poynts.</p>
+               <p>After he hath sought to the Lord who smit him &amp;c. Then let him in the first place seeke help vnto the Physition, and all o<g ref="char:EOLhyphen"/>ther lawfull meanes of recovering health.<note place="margin">Ecclu. 34.1 Math. 8.15</note>
+                  <hi>Honor the Physition for thy necessities sake, for God hath created him.</hi> saith <hi>Ecclesiastic.</hi> 38.1 The Lord healeth not now either myracu<g ref="char:EOLhyphen"/>lously (as he did <hi>Peters</hi> wiues mother) or contrary to meanes (as he did <hi>Hezechiah</hi>) with a cluster of figges,<note place="margin">2 King. 20 7. Ioh. 9.6,</note> or the eyes of the blinde with clay, <hi>Ioh.</hi> 9.) But he smiteth by meanes, and he healeth by meanes. To that
+<pb n="14" facs="tcp:4183:9"/> end hath he given to man, the knowledge of the secreets and properties of natural things: and to that end also hath he p<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that nature and strength into hearbes, sp<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ces, rootes, &amp;c. That they might be sove<g ref="char:EOLhyphen"/>raigne to our diseases. So that whosoever despiseth in sicknesse the lawfull meanes which God offereth of recoverie, that man is guiltie of his owne bloud, in the pre<g ref="char:EOLhyphen"/>sence of the Lord.</p>
+               <p n="2">2 Let him dispose the goods which the Lord hath given him, by his Will &amp; Testa<g ref="char:EOLhyphen"/>ment as <hi>Isaiah</hi> the Prophet willeth <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi> to put his house in order, because hee should dy, and not liue. And of his so do<g ref="char:EOLhyphen"/>ing, will follow this good.</p>
+               <p n="1">1 He may dispose of his goods which God hath sent him, as they may most glo<g ref="char:EOLhyphen"/>rifie God (which gaue them) after his de<g ref="char:EOLhyphen"/>cease</p>
+               <p n="2">2 He shall cut of much occasion of con<g ref="char:EOLhyphen"/>tention and striffe among those whom he leaveth behind him.</p>
+               <p n="3">3 His mind shall be the quieter, and the more heartely bent to God, and to ano<g ref="char:EOLhyphen"/>ther world: when he hath set at a stay the goods of this life, according to his will. Then may he say with <hi>Iacob, O Lord, I haue waited for thy saluation.</hi> Gen. 49.18.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:4183:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
